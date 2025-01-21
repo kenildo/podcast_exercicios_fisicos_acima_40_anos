@@ -20,6 +20,6 @@ Roteiro gerado via chatgpt
 
 Audio gerado pela elevenLabs 
 
-Leonardo.AI Para gerar capa (Prompt: 40 year old couple exercising outdoors in the morning - Resultado imagem conforme link: https://cdn.leonardo.ai/users/eb58ddc9-853a-43f8-b12d-a81e34f55d05/generations/1a070801-424e-48ca-9d76-a70a2119c9ec/segments/3:4:1/Flux_Dev_A_fit_and_energetic_40yearold_couple_with_smiling_fac_2.jpeg)
+Leonardo.AI Para gerar capa (Prompt: 40 year old couple exercising outdoors in the house - Resultado imagem conforme link: https://cdn.leonardo.ai/users/eb58ddc9-853a-43f8-b12d-a81e34f55d05/generations/1a070801-424e-48ca-9d76-a70a2119c9ec/segments/3:4:1/Flux_Dev_A_fit_and_energetic_40yearold_couple_with_smiling_fac_2.jpeg)
 
 Capcut para tratar aúdio e adicionar sons de fundo
